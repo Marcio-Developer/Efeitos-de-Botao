@@ -1,5 +1,5 @@
 body{
-    background-color: #B7DDB0;
+    background-color: #88ffa6;
     font-size: 17px;
 }
 
@@ -50,11 +50,11 @@ button::after {
 }
 
 button:hover{
-    color: #fff;
+    color: lime;
 }
 
 .btn-1::after {
-    background-color: #B7DDB0;
+    background-color: #88ffa6;
     height: 100%;
     left: 0;
     top: 0;
@@ -99,7 +99,7 @@ button:hover{
 }
 
 .btn-4::after {
-    background-color: #B7DDB0;
+    background-color: #88ffa6;
     height: 100%;
     left: 0;
     top: 0;
